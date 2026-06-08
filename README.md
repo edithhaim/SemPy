@@ -53,7 +53,7 @@ The code can be used for:
 
 ## Citation
 * Christensen, A. P., & Kenett, Y. N. (2023). Semantic network analysis (SemNA): A tutorial on preprocessing, estimating, and analyzing semantic networks. Psychological Methods, 28(4), 860.
+* Haim, E., Haim, K., Beaty, R.E., Siew, C.S.Q., Stella, M. (2026). Introducing multiplex semantic networks as multifaceted representations of creative associative knowledge across multilingual samples. arXiv.
 
 ## License
-
 MIT License.
