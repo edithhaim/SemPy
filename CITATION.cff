@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "SemPy Networks"
+message: "If you use this software, please cite it as follows."
+type: software
+
+authors:
+  - family-names: "Haim"
+    given-names: "Edith"
+
+repository-code: "https://github.com/edithhaim/SemPy"
+
+license: MIT
+
+abstract: >
+  Python code to create semantic networks from verbal fluency and Woseco data.
