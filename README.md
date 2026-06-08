@@ -25,8 +25,6 @@ Jupyter notebook containing the complete workflow for:
 * Community detection
 * Visualisation
 
-<img width="489" height="190" alt="image" src="https://github.com/user-attachments/assets/dea191ca-9da4-41c4-9d4a-9d855820eb2b" />
-
 ## Requirements
 
 Typical dependencies include:
@@ -59,3 +57,5 @@ The code can be used for:
 
 ## License
 MIT License.
+
+<img width="1489" height="1190" alt="image" src="https://github.com/user-attachments/assets/dea191ca-9da4-41c4-9d4a-9d855820eb2b" />
